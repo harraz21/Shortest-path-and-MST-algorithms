@@ -32,6 +32,7 @@ public class Main extends Application {
         g.addNodeConnectionUndirected(6,7,1);
         g.addNodeConnectionUndirected(7,8,7);
 
+
         //g.addNodeConnection(0,new Pair<>(8,10));
         //g.addNodeConnection(0,new Pair<>(5,5));
         //g.addNodeConnection(8,new Pair<>(9,1));
